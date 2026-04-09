@@ -13,6 +13,5 @@ int main() {
         valorTotal = valorTotal + valorCada;
     }
     media = valorTotal / quantidade;
-    printf("%d", i);
     printf("\no valor total e %f e a media do valor das mercadorias e %f", valorTotal, media);   
 }
